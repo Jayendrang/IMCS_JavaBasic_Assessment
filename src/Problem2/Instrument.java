@@ -11,4 +11,5 @@ public abstract class Instrument {
 	public String getName() {
 		return this.name;
 	}
+	
 }
